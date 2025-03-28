@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,Subcategory,UnitPrice,CurrentDiscountPercent
+101,laptop,Electronics,TV,793.12,10.0
+102,hoodie,Clothing,Jeans,39.1,
+103,cable,Electronics,Mixer,22.76,5.0
+104,hat,Clothing,Sweater,43.1,
+105,football,Sports,Shoes,19.78,20.0
+106,controller,Electronics,Heater,88.98,10.0
+107,jacket,Clothing,Shirt,67.02,
+108,protector,Electronics,Toothbrush,12.56,3.0
