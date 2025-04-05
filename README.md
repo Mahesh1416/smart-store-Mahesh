@@ -115,12 +115,12 @@ git push
 - git+https://github.com/denisecase/datafun-venv-checker.git#egg=datafun_venv_checker
 
 # Project 4
-# We designed our data warehouse schema
-# We created data models consisting of one fact table (Sales) and two dimension tables (Products) and (customers)
-# we created schema and loaded the data in python
-# We created a new file named etl_to_dw.py
-# We copied the code from the repo, adjusted it for the prepared data
-# For mac we activated the virtual environment and ran the following script
+  We designed our data warehouse schema
+  We created data models consisting of one fact table (Sales) and two dimension tables (Products) and (customers)
+  we created schema and loaded the data in python
+  We created a new file named etl_to_dw.py
+  We copied the code from the repo, adjusted it for the prepared data
+  For mac we activated the virtual environment and ran the following script
   source .venv/bin/activate
   python3 scripts/etl_to_dw.py
 
