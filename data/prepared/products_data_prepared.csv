@@ -1,4 +1,4 @@
-ProductID,ProductName,Category,Subcategory,UnitPrice,CurrentDiscountPercent
+product_id,product_name,category,subcategory,unit_price,current_discount_percent
 101,laptop,Electronics,TV,793.12,10.0
 102,hoodie,Clothing,Jeans,39.1,
 103,cable,Electronics,Mixer,22.76,5.0
