@@ -121,7 +121,6 @@ git push
 - We created a new file named etl_to_dw.py
 - We copied the code from the repo, adjusted it for the prepared data
 - For mac we activated the virtual environment and ran the following script
-   
-source .venv/bin/activate
-python3 scripts/etl_to_dw.py
+   - source .venv/bin/activate
+   - python3 scripts/etl_to_dw.py
 
