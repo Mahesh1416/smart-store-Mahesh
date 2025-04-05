@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pdconn = mysql.connector.connect(host = "host_name", user = "host_username",passwd = "host_password",database = "database")
 import sqlite3
 import pathlib
 import sys
