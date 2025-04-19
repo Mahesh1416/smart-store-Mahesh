@@ -124,7 +124,7 @@ git push
    - source .venv/bin/activate
    - python3 scripts/etl_to_dw.py
  
-  #Project 6
+  # Project 6 (OLAP analysis)
   - Business goal
     - There were three business goals. The first was to evaluate which category of products gets sold more in which of the four regions. The second goal was focused on      
       finding the total sales are greater in which quarter and month of the year. The final goal was to evaluate which customer spent more on the products.
