@@ -123,4 +123,31 @@ git push
 - For mac we activated the virtual environment and ran the following script
    - source .venv/bin/activate
    - python3 scripts/etl_to_dw.py
+ 
+  #Project 6
+  - Business goal
+    - There were three business goals. The first was to evaluate which category of products gets sold more in which of the four regions. The second goal was focused on      
+      finding the total sales are greater in which quarter and month of the year. The final goal was to evaluate which customer spent more on the products.
+   - Data Source
+        - I imported the three files (customer, product and sales) files in Power BI directly and then created the graphs, tables and analysis trying to answer those
+          business goal questions.
+   - Tools
+        - I used Microsoft Power BI tool to create those tables and graphs.
+   - Workflow and logic
+        - <img width="959" alt="Screenshot 2025-04-19 174226" src="https://github.com/user-attachments/assets/045eeab9-2bf5-4d4d-9fb1-e09ad03f0396" />
+
+   - Results
+    
+    <img width="956" alt="Screenshot 2025-04-19 172408" src="https://github.com/user-attachments/assets/31c2d1c6-29af-4169-9a22-778dc59cedb7" />
+
+    
+<img width="941" alt="Screenshot 2025-04-19 162306" src="https://github.com/user-attachments/assets/bd8856a6-6721-439f-adef-2bb427fb00bf" />
+
+   - Suggested Business action
+        - I recommend the company to focus more on the sales during August, January, June and October as the sales were low during these periods. A further study is warranted to look investigate on those trends. Similalry, the sale of electronic items seems to be very high which tells us that there is a very high demand for electronic products so further exploration on different types of electronic items that can be sold should be explored.
+    
+   - Challenges
+        - Overall, this project was very challenging in the beginning. I had to use Power BI directly for this project because I had a hard time connecting with the JDBC driver on mac.
+          
+
 
