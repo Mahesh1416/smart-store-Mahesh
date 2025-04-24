@@ -148,6 +148,36 @@ git push
     
    - Challenges
         - Overall, this project was very challenging in the beginning. I had to use Power BI directly for this project because I had a hard time connecting with the JDBC driver on mac.
+    
+   # Final Project
+   - Section 1. The Business Goal
+   - My business goal was to identify which product is most profitable by month and region
+   - Section 2. Data Source
+   - I imported the three files (customer, product and sales) files in Power BI directly and then created the graphs, tables and analysis trying to answer those
+          business goal questions.
+   - Section 3. Tools used
+   - Power BI
+   - Section 4. Workflow and Logic
+   - I used Power BI to prepare the data and used Power BI to find ways to create graphs (by slicing and dicing) to provide useful answers for my business goals in the 
+     dashboard. I created multiple graphs that answered my questions and those charts were used to make my dashboard.
+   - Section 5. Results
+   - <img width="952" alt="Screens![Uploading workflow and logic.png…]()
+hot 2025-04-24 142132" src="https://github.com/user-attachments/assets/e4a446ee-4652-40b7-b214-e7a7566b86d8" />
+
+- Section 6. Suggested Business Action
+- Based on my analsysis, it appears that the product which is sold best in atleast 3 regions (eastern, southern and western) is laptop. Therefore, I recommend the company to stock more laptops for the coming year in those regions. To continue to have higher sales from laptop, I would also recommend the company for more targeted sales advertisement on laptops as the demand is quite high in those regions. Based on my line chart, it appears that there is lower sales in the months of June, January, October and August. I recommend the company to investigate further on why the sales are so low during those months thereby warranting a more thorough study. 
+
+- Section 7. Challenges
+- The initial challenges I had for this project was to slice and dice the data in a way that would answer the questions related to the business goals.
+- Section 8. Ethical Considerations.
+- Some of the important ethical considerations are to make sure that we focus on stores and regions that are not performing well along with high performing locations and stores. It is very important to uplift those underperforming ones rather than using the data to justify to focus only on high performing ones.
+  
+
+
+
+
+
+     
           
 
 
